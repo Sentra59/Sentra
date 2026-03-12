@@ -2,7 +2,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useState, useEffect } from "react";
 
 import slide1 from "../assets/images/Gallery5.jpg";
-import slide2 from "../assets/images/Gallery4.jpg";
+import slide2 from "../assets/images/Gallery4.png";
 import slide3 from "../assets/images/Gallery3.jpg";
 
 const Homepage = () => {

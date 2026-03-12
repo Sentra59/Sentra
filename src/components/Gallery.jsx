@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import gallery1 from "../assets/images/gallery1.jpg";
 import gallery2 from "../assets/images/Gallery2.jpg";
 import gallery3 from "../assets/images/Gallery3.jpg";
-import gallery4 from "../assets/images/Gallery4.jpg";
+import gallery4 from "../assets/images/Gallery4.png";
 import gallery5 from "../assets/images/Gallery5.jpg";
 
 const images = [

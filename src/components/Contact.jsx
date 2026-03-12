@@ -277,7 +277,7 @@ export default function Contact() {
 
 
         <motion.a
-          href="https://facebook.com"
+          href="https://www.facebook.com/profile.php?id=61582058008460&mibextid=rS40aB7S9Ucbxw6v"
           target="_blank"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -289,7 +289,7 @@ export default function Contact() {
 
 
         <motion.a
-          href="https://tiktok.com"
+          href="https://www.tiktok.com/@sentra_cord?_r=1&_t=ZS-94axu3VXbpU"
           target="_blank"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -301,7 +301,7 @@ export default function Contact() {
 
 
         <motion.a
-          href="https://instagram.com"
+          href="https://www.instagram.com/sentracord?igsh=MjhqMmNoemxjbTlx&utm_source=ig_contact_invite"
           target="_blank"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
